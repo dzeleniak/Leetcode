@@ -1,5 +1,4 @@
 public class TimeMap {
-
     Dictionary<string, Dictionary<int, string>> timeMap;
     
     public TimeMap() {
